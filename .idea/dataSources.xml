@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Mycart Database" uuid="27a9f505-ffa6-453a-8410-b10ff8b0e500">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/Mycart/settings/base.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PY_repo\Mycart\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Mycart db" uuid="4c12700e-6a18-42fb-ae62-7864dbb0b9a7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/Mycart/settings/base.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PY_repo\Mycart\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
